@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 
-[AAPM](https://mikhael-openworkspace.notion.site/Project-Archivist-e512fa7a21474ef6bdbd615a424293cf)@Audio-8151의 Python 구현체입니다. 자세한 내용은 [Notion](https://mikhael-openworkspace.notion.site/Fourier-Analogue-in-Digital-d170c1760cbf4bb4aaea9b1f09b7fead?pvs=4)에서 확인하실 수 있습니다.
+[AAPM](https://universet-uendelege.notion.site/Project-Archivist-e512fa7a21474ef6bdbd615a424293cf)@Audio-8151의 Python 구현체입니다. 자세한 내용은 [Notion](https://universet-uendelege.notion.site/Fourier-Analogue-in-Digital-d170c1760cbf4bb4aaea9b1f09b7fead?pvs=4)에서 확인하실 수 있습니다.
 
 ## 설치 방법
 

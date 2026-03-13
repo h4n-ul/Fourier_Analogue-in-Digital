@@ -30,7 +30,7 @@ Archivist ライセンスは、著作物全体に適用されます。
 
 著作物はそのままの状態で配布されます。
 
-すべての実装リポジトリは、[公式フォーマット文書](https://mikhael-openworkspace.notion.site/Format-specs-727affae8db043f2b50372d91d534368?pvs=4)と完全に互換している必要があります。
+すべての実装リポジトリは、[公式フォーマット文書](https://universet-uendelege.notion.site/Format-specs-727affae8db043f2b50372d91d534368?pvs=4)と完全に互換している必要があります。
 
 ## 配布や実装について
 

@@ -30,7 +30,7 @@ Archivist Licence covers the entire Work.
 
 The Work is distributed as is.
 
-Any implementation repository MUST be fully compatible with the [official format document](https://mikhael-openworkspace.notion.site/Format-specs-727affae8db043f2b50372d91d534368?pvs=4).
+Any implementation repository MUST be fully compatible with the [official format document](https://universet-uendelege.notion.site/Format-specs-727affae8db043f2b50372d91d534368?pvs=4).
 
 ## About Distribution or Implementation
 

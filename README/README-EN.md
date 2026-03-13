@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Python implementation of [AAPM](https://mikhael-openworkspace.notion.site/Project-Archivist-e512fa7a21474ef6bdbd615a424293cf)@Audio-8151. More information can be found in the [Notion](https://mikhael-openworkspace.notion.site/Fourier-Analogue-in-Digital-d170c1760cbf4bb4aaea9b1f09b7fead?pvs=4).
+Python implementation of [AAPM](https://universet-uendelege.notion.site/Project-Archivist-e512fa7a21474ef6bdbd615a424293cf)@Audio-8151. More information can be found in the [Notion](https://universet-uendelege.notion.site/Fourier-Analogue-in-Digital-d170c1760cbf4bb4aaea9b1f09b7fead?pvs=4).
 
 ## How to install
 

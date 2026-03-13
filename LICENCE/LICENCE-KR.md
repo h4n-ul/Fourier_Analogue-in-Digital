@@ -30,7 +30,7 @@ Archivist 라이선스는 저작물 전체에 적용됩니다.
 
 저작물은 있는 그대로 배포됩니다.
 
-모든 구현체 레포지토리는 [공식 포맷 문서](https://mikhael-openworkspace.notion.site/Format-specs-727affae8db043f2b50372d91d534368?pvs=4)와 완전히 호환되어야 합니다.
+모든 구현체 레포지토리는 [공식 포맷 문서](https://universet-uendelege.notion.site/Format-specs-727affae8db043f2b50372d91d534368?pvs=4)와 완전히 호환되어야 합니다.
 
 ## 유통이나 구현에 관하여
 
